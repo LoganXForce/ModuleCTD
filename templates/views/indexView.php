@@ -10,7 +10,7 @@
     <div class="row">
       <div class="col-lg-7 col-12">
         <div class="card mb-3">
-          <div class="card-header">Información del Solicitante</div>
+          <div class="card-header">Información del Cliente</div>
           <div class="card-body">
             <form action="">
               <div class="form-group row">

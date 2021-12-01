@@ -1,7 +1,7 @@
 
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/cosmycod/test.cosmycode.com/
+    - export DEPLOYPATH=/home/cosmycod/AlphaMod.cosmycode.com/
     - /bin/rm -Rf $DEPLOYPATH
     - /bin/mkdir $DEPLOYPATH
     - /bin/cp -R src/. $DEPLOYPAT

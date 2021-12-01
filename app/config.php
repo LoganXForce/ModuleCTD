@@ -6,7 +6,7 @@ define('IS_LOCAL' , in_array($_SERVER['REMOTE_ADDR'], ['127.0.0.1', '::1']));
 
 // La URL de nuestro proyecto
 //define('URL'      , (IS_LOCAL ? 'http://127.0.0.1/udemy_cotizador/' : 'LA URL DE SU SERVIDOR EN PRODUCCIÓN'));
-define('URL'      , (IS_LOCAL ? 'https://test.cosmycode.com/' : 'https://modulecotizador.cosmycode.com/'));
+define('URL'      , (IS_LOCAL ? 'https://alphamod.cosmycode.com	' : 'https://alphamod.cosmycode.com	'));
 // Rutas para carpetas
 define('DS'       , DIRECTORY_SEPARATOR);
 define('ROOT'     , getcwd().DS);
